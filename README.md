@@ -5,6 +5,9 @@ When saving files in Creo Parametric (formerly Pro-E), it saves every modificati
 
 
 # Usage
+
+Requires [JRE](https://java.com/en/download/)
+
 Run the jar file and select the folder to be cleaned. Or place it inside the desired folder and just press Open.
 
 It's a tiny file (<2kb) so I leave a copy in all my creo project folders.
