@@ -14,4 +14,4 @@ Run the jar file and select the folder to be cleaned. Or place it inside the des
 
 It's a tiny file (<2kb) so I leave a copy in all my creo project folders.
 
-![](https://i.imgur.com/N9HCd3S.png)
+![](img/screenshot.png)
